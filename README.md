@@ -1,0 +1,2 @@
+# SenakaAI
+My Intelligent partner
